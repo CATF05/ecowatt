@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "398430500707",
+    "firebase_url": "https://ecowatt-85d34-default-rtdb.firebaseio.com",
+    "project_id": "ecowatt-85d34",
+    "storage_bucket": "ecowatt-85d34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398430500707:android:d4122f76660fca2bed0556",
+        "android_client_info": {
+          "package_name": "com.ecowatt.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398430500707-uh360ilftog3sprg4e6mfac2tsvbnilb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzM5zPwFO1q2kMjIZ6n9BcLm2UTWaKj2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398430500707-uh360ilftog3sprg4e6mfac2tsvbnilb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "398430500707-839lrpbgg6m9c2a8etsts4poh529dsns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecowatt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
